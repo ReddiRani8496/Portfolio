@@ -1,7 +1,3 @@
-The issue you are facing with the formatting is likely due to improper handling of code blocks in Markdown. To ensure the `README.md` displays correctly, you need to use proper Markdown syntax for code blocks, especially when including commands or HTML snippets.
-
-Here’s the corrected version of your `README.md` file, ensuring all code blocks are properly formatted:
-
 ```markdown
 # Portfolio Website
 
