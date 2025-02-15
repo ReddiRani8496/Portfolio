@@ -313,3 +313,24 @@ export const workExperiences = [
     animation: "salute",
   },
 ];
+
+export const socialProfiles = [
+  {
+    id: 1,
+    name: "LinkedIn",
+    url: "https://www.linkedin.com/in/reddirani/",
+    icon: "/assets/linkedin.svg",
+  },
+  {
+    id: 2,
+    name: "GitHub",
+    url: "https://github.com/ReddiRani8496",
+    icon: "/assets/github.svg",
+  },
+  {
+    id: 3,
+    name: "CodeChef",
+    url: "https://www.codechef.com/users/reddirani_8496",
+    icon: "/assets/codechef.svg",
+  },
+];
