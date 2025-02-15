@@ -120,24 +120,7 @@ This portfolio can be used to:
 2. Provide links to your social media accounts (LinkedIn, GitHub, CodeChef).
 3. Present a professional online presence with stunning animations.
 
-### Updating Social Media Links
-
-To update the social media links in the footer, modify the `Footer` component in the source code:
-
 ```
-
-<a href="https://linkedin.com/in/your-account" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/linkedin.svg" alt="LinkedIn" />
-</a>
-<a href="https://github.com/your-account" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/github.svg" alt="GitHub" />
-</a>
-<a href="https://www.codechef.com/users/your-account" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/codechef.svg" alt="CodeChef" />
-</a>
-```
-
-Replace `your-account` with your actual social media usernames.
 
 ---
 
@@ -171,7 +154,3 @@ Contributions are welcome! If you'd like to contribute:
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-```
